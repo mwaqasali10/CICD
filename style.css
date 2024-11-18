@@ -1,0 +1,12 @@
+h1{
+ color: blue;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
+}
+
+.container{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2ch black;
+}
